@@ -1,0 +1,34 @@
+C:\Users\steve\source\repos\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+C:\Users\steve\source\repos\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+C:\Users\steve\source\repos\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+C:\Users\steve\source\repos\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+C:\Users\steve\source\repos\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+C:\Users\steve\source\repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.Form1.resources
+C:\Users\steve\source\repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.Properties.Resources.resources
+C:\Users\steve\source\repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\steve\source\repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\source\repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\steve\source\repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+C:\Users\steve\source\repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\refint\Calculadora.dll
+C:\Users\steve\source\repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+C:\Users\steve\source\repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\steve\source\repos\Calculadora\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll
+D:\Marcos doxs\Deberes Marcos\6° Sexto semestre\Marcos de Desarrollo 2\calculadoras C#\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+D:\Marcos doxs\Deberes Marcos\6° Sexto semestre\Marcos de Desarrollo 2\calculadoras C#\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+D:\Marcos doxs\Deberes Marcos\6° Sexto semestre\Marcos de Desarrollo 2\calculadoras C#\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+D:\Marcos doxs\Deberes Marcos\6° Sexto semestre\Marcos de Desarrollo 2\calculadoras C#\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+D:\Marcos doxs\Deberes Marcos\6° Sexto semestre\Marcos de Desarrollo 2\calculadoras C#\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+D:\Marcos doxs\Deberes Marcos\6° Sexto semestre\Marcos de Desarrollo 2\calculadoras C#\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.Form1.resources
+D:\Marcos doxs\Deberes Marcos\6° Sexto semestre\Marcos de Desarrollo 2\calculadoras C#\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.Properties.Resources.resources
+D:\Marcos doxs\Deberes Marcos\6° Sexto semestre\Marcos de Desarrollo 2\calculadoras C#\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.GenerateResource.cache
+D:\Marcos doxs\Deberes Marcos\6° Sexto semestre\Marcos de Desarrollo 2\calculadoras C#\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marcos doxs\Deberes Marcos\6° Sexto semestre\Marcos de Desarrollo 2\calculadoras C#\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+D:\Marcos doxs\Deberes Marcos\6° Sexto semestre\Marcos de Desarrollo 2\calculadoras C#\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.cs
+D:\Marcos doxs\Deberes Marcos\6° Sexto semestre\Marcos de Desarrollo 2\calculadoras C#\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+D:\Marcos doxs\Deberes Marcos\6° Sexto semestre\Marcos de Desarrollo 2\calculadoras C#\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+D:\Marcos doxs\Deberes Marcos\6° Sexto semestre\Marcos de Desarrollo 2\calculadoras C#\Calculadora\Calculadora\obj\Debug\net6.0-windows\refint\Calculadora.dll
+D:\Marcos doxs\Deberes Marcos\6° Sexto semestre\Marcos de Desarrollo 2\calculadoras C#\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+D:\Marcos doxs\Deberes Marcos\6° Sexto semestre\Marcos de Desarrollo 2\calculadoras C#\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+D:\Marcos doxs\Deberes Marcos\6° Sexto semestre\Marcos de Desarrollo 2\calculadoras C#\Calculadora\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll
